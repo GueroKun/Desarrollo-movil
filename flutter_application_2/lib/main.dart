@@ -67,7 +67,7 @@ class _MyHomePageState extends State<MyHomePage> {
     _txtNameCtrl.clear();
   }
 
-  // Workers
+  // Workers xd xd
    void _addWorker() {
     final nombre = _txtNameCtrl.text.trim();
     final apellidos = _txtLastNameCtrl.text.trim();
